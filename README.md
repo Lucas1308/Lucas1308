@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas Roberto 
-- 👀 interested in Data Science and statistic 
+- 👀 Interested in Data Science and Statistic 
 
 <!---
 Lucas1308/Lucas1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
